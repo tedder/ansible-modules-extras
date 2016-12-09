@@ -213,7 +213,7 @@ def boto_exception(err):
     return error
 
 # the following function, calculate_multipart_etag, is from tlastowka
-# on github and is used under its (compatible) MIT license. So this
+# on github and is used under its (compatible) GPL license. So this
 # license applies to the following function.
 # source: https://github.com/tlastowka/calculate_multipart_etag/blob/master/calculate_multipart_etag.py
 #
